@@ -54,6 +54,11 @@
 			<artifactId>spring-cloud-starter-eureka</artifactId>
 			<version>1.4.6.RELEASE</version>
 		</dependency>
+		<dependency>
+			<groupId>io.netty</groupId>
+			<artifactId>netty-all</artifactId>
+			<version>4.1.45.Final</version>
+		</dependency>
 	</dependencies>
 
 	<build>
